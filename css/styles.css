@@ -287,3 +287,14 @@ h3 {
     border: 3px solid white;
     padding: 50px 5px;
 }
+
+
+.contact {
+    background-image: url(../img/footerpic.jpg);
+    background-size: cover;
+    margin-top: 30px;
+}
+
+.contact h3 {
+    color: white;
+}
