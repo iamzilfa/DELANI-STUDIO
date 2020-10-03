@@ -71,6 +71,18 @@ h3 {
 }
 
 
+#overOne {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    display: none;
+}
+
 #detailOne {
     position: absolute;
     -ms-transform: translate(-50%, -50%);
