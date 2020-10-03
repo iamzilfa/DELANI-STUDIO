@@ -352,3 +352,23 @@ button {
   .container .icons ul li {
     display: inline;
   }
+
+  .delst {
+    text-align: center;
+}
+
+#textDes {
+    display: none;
+}
+
+#textDev {
+  display: none;
+}
+
+#textProd {
+  display: none;
+}
+
+.container-weDo {
+  text-align: center;
+}
