@@ -298,3 +298,43 @@ h3 {
 .contact h3 {
     color: white;
 }
+
+input[type=text] {
+    height: 30px;
+    background-color: transparent;
+    margin-top: 30px;
+}
+
+#exampleFormControlTextarea1 {
+    margin: 20px 0;
+    height: 200px;
+    background-color: transparent; 
+}
+
+#exampleFormControlTextarea1::placeholder {
+    color: white;
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+input[type="text"]::placeholder {
+    color: white; 
+} 
+
+button {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    width: 150px;
+}
+
