@@ -338,3 +338,17 @@ button {
     width: 150px;
 }
 
+
+.icons ul {
+    list-style-type: none;
+    margin-top: 30px;
+    text-align: center;
+  }
+
+ .icons li {
+      padding: 10px;
+  }
+  
+  .container .icons ul li {
+    display: inline;
+  }
