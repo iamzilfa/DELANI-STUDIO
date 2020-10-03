@@ -1,0 +1,46 @@
+header {
+    background-image: url(../img/shoepic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height:150vh ;
+}
+
+.dan {
+    text-align: center;
+    color: white;
+}
+
+.logo {
+    padding-top:300px;
+    
+}
+
+.log {
+    padding-top: 230px;
+}
+
+.text h2 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40px;
+    margin-top: 50px;
+    
+}
+
+.del h1 {
+    font-family: 'Plaster', cursive;
+    font-size: 50px;
+    padding-top: 30px;
+}
+
+h6 {
+    padding-top: 10px;
+    font-family: 'Bellefair', serif;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+}
+
+p {
+    font-family: 'Bellefair', serif;
+    font-size: 20px;
+}
