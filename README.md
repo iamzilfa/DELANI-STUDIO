@@ -15,7 +15,7 @@ Project is to help us practice and understand better the concepts that we have c
 * A user enter name
 * A user enter email
 * A user enter a message
-* A user after submittin his/her request and he will see the thankful popup message 
+* A user after submittin his/her request and he/she will see the thankful popup message 
 
 
 
