@@ -71,6 +71,24 @@ h3 {
 }
 
 
+.container-weDo {
+    text-align: center;
+  }
+
+#textDes {
+    display: none;
+}
+
+#textDev {
+  display: none;
+}
+
+#textProd {
+  display: none;
+}
+
+
+
 #overOne {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
@@ -355,20 +373,4 @@ button {
 
   .delst {
     text-align: center;
-}
-
-#textDes {
-    display: none;
-}
-
-#textDev {
-  display: none;
-}
-
-#textProd {
-  display: none;
-}
-
-.container-weDo {
-  text-align: center;
 }
