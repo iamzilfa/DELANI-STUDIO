@@ -28,7 +28,7 @@ Project is to help us practice and understand better the concepts that we have c
 ## Support and contact details
 If anyone need support concerning my project or anything related, just reach out to zilcyam@gmail.com
  
-<!-- [Here is the link](https://iamzilfa.github.io/AkanName/ "Akan-Name") -->
+[Here is the link](https://iamzilfa.github.io/DELANI-STUDIO/ "DELANI STUDIO")
 
 
 ![DELANI STUDIO](./img/delStud.png)
