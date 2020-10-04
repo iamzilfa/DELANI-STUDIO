@@ -1,6 +1,7 @@
 # DELANI ATUDIO
 ## Description
-Project is to help us practice and understand better the concepts that we have covered throughout this week.
+Our design practice offers a full range of services including brand strategy, interaction
+                            and visual design and user experience testing.
 ## Author(s) information
 [iamzilfa](https://github.com/iamzilfa)
 
