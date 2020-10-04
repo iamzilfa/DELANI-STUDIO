@@ -31,7 +31,7 @@ If anyone need support concerning my project or anything related, just reach out
 <!-- [Here is the link](https://iamzilfa.github.io/AkanName/ "Akan-Name") -->
 
 
-<!-- ![DELANI STUDIO](./img/delani-studio.png) -->
+![DELANI STUDIO](./img/delStud.png)
 
 ### License
 
