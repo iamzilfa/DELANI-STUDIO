@@ -1,7 +1,7 @@
 # DELANI ATUDIO
 ## Description
 Our design practice offers a full range of services including brand strategy, interaction
-                            and visual design and user experience testing.
+and visual design and user experience testing.
 ## Author(s) information
 [iamzilfa](https://github.com/iamzilfa)
 
