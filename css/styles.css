@@ -272,6 +272,7 @@ input[type=text] {
     background-color: transparent;
     font-family: 'Shadows Into Light', cursive;
     font-size: 20px;
+    color: white;
 }
 
 #exampleFormControlTextarea1::placeholder {
