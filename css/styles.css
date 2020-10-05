@@ -76,17 +76,6 @@ h3 {
     text-align: center;
 }
 
-#textDes {
-    display: none;
-}
-
-#textDev {
-    display: none;
-}
-
-#textProd {
-    display: none;
-}
 
 #overOne {
     height: 100%;
@@ -105,7 +94,6 @@ h3 {
     top: 50%;
     left: 50%;
     position: absolute;
-    display: none;
 }
 
 #overTwo {
@@ -125,7 +113,6 @@ h3 {
     position: absolute;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    display: none;
 }
 
 #overThree {
@@ -145,7 +132,6 @@ h3 {
     top: 50%;
     left: 50%;
     position: absolute;
-    display: none;
 }
 
 #overFour {
@@ -165,7 +151,6 @@ h3 {
     top: 50%;
     left: 50%;
     position: absolute;
-    display: none;
 }
 
 #overFive {
@@ -185,7 +170,6 @@ h3 {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     position: absolute;
-    display: none;
 }
 
 #overSix {
@@ -205,7 +189,6 @@ h3 {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     position: absolute;
-    display: none;
 }
 
 #overSeven {
@@ -225,7 +208,6 @@ h3 {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     position: absolute;
-    display: none;
 }
 
 #overEight {
@@ -245,7 +227,6 @@ h3 {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     position: absolute;
-    display: none;
 }
 
 .contact {
